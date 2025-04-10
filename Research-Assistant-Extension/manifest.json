@@ -1,0 +1,30 @@
+{
+    "manifest_version":3,
+    "name" : "Web Insight Assistant",
+    "version": "1.0",
+    "description": "AI-powered Web Research Assistant for summarizing and analyzing selected webpage content.",
+
+    "permissions": [
+        "activeTab",
+        "storage",
+        "sidePanel",
+        "scripting"
+    ],
+    "action":{
+        "default_title":"Web Insight Assistant"
+    },
+    "side_panel":{
+        "default_path":"sidepanel.html"
+    },
+    "background":{
+        "service_worker": "background.js"
+    },
+    "host_permissions": [
+        "http://localhost:8080/*",
+        "<all_urls>"
+    ],
+    "content_security_policy":{
+        "extension_pages":"script-src 'self'; object-src 'self'"
+    }
+
+}
