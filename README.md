@@ -1,7 +1,5 @@
 # Web Insight Assistant 🔍
 
-Hi, I’m Kaviya — I built this project as part of my learning journey in full-stack development.
-
 **Web Insight Assistant** is a Chrome Extension connected to a Spring Boot backend that helps users quickly get AI-powered summaries and topic suggestions for any selected web content — all using Gemini AI.
 
 It started out as a simple idea:  
