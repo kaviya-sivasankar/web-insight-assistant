@@ -1,0 +1,50 @@
+# Web Insight Assistant 🔍
+
+Hi, I’m Kaviya — I built this project as part of my learning journey in full-stack development.
+
+**Web Insight Assistant** is a Chrome Extension connected to a Spring Boot backend that helps users quickly get AI-powered summaries and topic suggestions for any selected web content — all using Gemini AI.
+
+It started out as a simple idea:  
+_"What if I could highlight content on any page and get an instant summary or topic expansion without switching tabs?"_
+
+That’s what this project does.
+
+---
+
+## 🌟 Key Features
+
+- Summarize any selected web content instantly
+- Suggest related topics and further reading
+- Works as a browser extension — no need to leave the tab
+- Uses Spring Boot + Gemini AI behind the scenes
+
+---
+
+## 🧑‍💻 Tech Stack
+
+| Frontend (Chrome Extension) | Backend (Spring Boot API) |
+|-----------------------------|----------------------------|
+| HTML, CSS, JS               | Java 17, Spring Boot 3     |
+| Chrome Extensions API       | Gemini AI (Google API)     |
+
+---
+
+## 🛠 How to Run This Project
+
+### 🧩 Frontend - Chrome Extension
+
+1. Go to `chrome://extensions`
+2. Turn on **Developer Mode**
+3. Click **Load Unpacked**
+4. Select the `Research-Assistant-Extension` folder
+
+The extension will now be visible in your Chrome toolbar.
+
+---
+
+### ⚙️ Backend - Spring Boot
+
+1. Navigate to the `websearch` folder
+2. Create a file:  
+   `src/main/resources/application.properties`
+3. Add your Gemini API key:
