@@ -52,3 +52,6 @@ GEMINI_API_KEY=your_api_key_here
 4.Open a terminal and run:
 ./mvnw spring-boot:run
 ✅ The backend will start at http://localhost:8080
+
+### Demo 
+![Screenshot 2025-05-20 215737](https://github.com/user-attachments/assets/4d3af12c-37e0-432f-9eb6-4b996caf4a20)
