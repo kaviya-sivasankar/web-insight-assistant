@@ -12,7 +12,6 @@ That’s what this project does.
 ## 🌟 Key Features
 
 - Summarize any selected web content instantly
-- Suggest related topics and further reading
 - Works as a browser extension — no need to leave the tab
 - Uses Spring Boot + Gemini AI behind the scenes
 
@@ -45,4 +44,11 @@ The extension will now be visible in your Chrome toolbar.
 1. Navigate to the `websearch` folder
 2. Create a file:  
    `src/main/resources/application.properties`
-3. Add your Gemini API key:
+
+
+3.Add your Gemini API Key to it:
+GEMINI_API_KEY=your_api_key_here
+
+4.Open a terminal and run:
+./mvnw spring-boot:run
+✅ The backend will start at http://localhost:8080
