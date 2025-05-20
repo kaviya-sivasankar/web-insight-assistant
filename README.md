@@ -53,11 +53,16 @@ GEMINI_API_KEY=your_api_key_here
 ./mvnw spring-boot:run
 ✅ The backend will start at http://localhost:8080
 
-### Demo 
+### 📸 Demo
+
+#### 🧠 Summary Panel in Action
+
+<img src="https://github.com/user-attachments/assets/389a7b53-daa0-42c9-9e7b-3d950a059375" width="420" height="380"/>
 
 
-![web insight github demo1](https://github.com/user-attachments/assets/eef42b53-d83e-4859-b366-af1acbac6c40)
+
+<img src="https://github.com/user-attachments/assets/66382b07-7482-40a4-a22a-691df223aa21" width="420" height="380"/>
 
 
-![web insight github demo2](https://github.com/user-attachments/assets/d39da9b4-ffe4-4ed0-ab44-42ad9c434816)
+
 
