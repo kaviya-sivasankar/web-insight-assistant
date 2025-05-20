@@ -54,4 +54,10 @@ GEMINI_API_KEY=your_api_key_here
 ✅ The backend will start at http://localhost:8080
 
 ### Demo 
-![Screenshot 2025-05-20 215737](https://github.com/user-attachments/assets/4d3af12c-37e0-432f-9eb6-4b996caf4a20)
+
+
+![web insight github demo1](https://github.com/user-attachments/assets/eef42b53-d83e-4859-b366-af1acbac6c40)
+
+
+![web insight github demo2](https://github.com/user-attachments/assets/d39da9b4-ffe4-4ed0-ab44-42ad9c434816)
+
